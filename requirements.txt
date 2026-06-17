@@ -1,4 +1,0 @@
-python-telegram-bot==21.2
-APScheduler==3.10.4
-pymongo==4.7.3
-dotenv-parser==0.1.0
